@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31727.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JSONPracitce", "JSONPracitce\JSONPracitce.csproj", "{CA94B3F4-66AD-4749-87F0-5B2FBF218EBD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA94B3F4-66AD-4749-87F0-5B2FBF218EBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA94B3F4-66AD-4749-87F0-5B2FBF218EBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA94B3F4-66AD-4749-87F0-5B2FBF218EBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA94B3F4-66AD-4749-87F0-5B2FBF218EBD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {71945924-C904-42D0-96C7-0EB8169780EB}
+	EndGlobalSection
+EndGlobal

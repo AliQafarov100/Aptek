@@ -1,0 +1,14 @@
+C:\Users\M S I\source\repos\JSONPracitce\JSONPracitce\bin\Debug\netcoreapp3.1\JSONPracitce.exe
+C:\Users\M S I\source\repos\JSONPracitce\JSONPracitce\bin\Debug\netcoreapp3.1\JSONPracitce.deps.json
+C:\Users\M S I\source\repos\JSONPracitce\JSONPracitce\bin\Debug\netcoreapp3.1\JSONPracitce.runtimeconfig.json
+C:\Users\M S I\source\repos\JSONPracitce\JSONPracitce\bin\Debug\netcoreapp3.1\JSONPracitce.runtimeconfig.dev.json
+C:\Users\M S I\source\repos\JSONPracitce\JSONPracitce\bin\Debug\netcoreapp3.1\JSONPracitce.dll
+C:\Users\M S I\source\repos\JSONPracitce\JSONPracitce\bin\Debug\netcoreapp3.1\JSONPracitce.pdb
+C:\Users\M S I\source\repos\JSONPracitce\JSONPracitce\obj\Debug\netcoreapp3.1\JSONPracitce.csproj.AssemblyReference.cache
+C:\Users\M S I\source\repos\JSONPracitce\JSONPracitce\obj\Debug\netcoreapp3.1\JSONPracitce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\M S I\source\repos\JSONPracitce\JSONPracitce\obj\Debug\netcoreapp3.1\JSONPracitce.AssemblyInfoInputs.cache
+C:\Users\M S I\source\repos\JSONPracitce\JSONPracitce\obj\Debug\netcoreapp3.1\JSONPracitce.AssemblyInfo.cs
+C:\Users\M S I\source\repos\JSONPracitce\JSONPracitce\obj\Debug\netcoreapp3.1\JSONPracitce.csproj.CoreCompileInputs.cache
+C:\Users\M S I\source\repos\JSONPracitce\JSONPracitce\obj\Debug\netcoreapp3.1\JSONPracitce.dll
+C:\Users\M S I\source\repos\JSONPracitce\JSONPracitce\obj\Debug\netcoreapp3.1\JSONPracitce.pdb
+C:\Users\M S I\source\repos\JSONPracitce\JSONPracitce\obj\Debug\netcoreapp3.1\JSONPracitce.genruntimeconfig.cache
