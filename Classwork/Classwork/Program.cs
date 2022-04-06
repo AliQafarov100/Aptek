@@ -36,39 +36,7 @@ namespace Classwork
             pharmacy.AddDrug(drug);
             pharmacy.AddDrug(drug1);
             pharmacy.SaleDrug(name, count, money);
-            
-
-            foreach (var item in pharmacy.drugs)
-            {
-                
-
-
-                //if (money > item.Price)
-                //{
-                //    while (money > item.Price)
-                //    {
-                //        Console.WriteLine("Would you buy anything?");
-                //        char choose = char.Parse(Console.ReadLine());
-
-                //        if (choose == 'y')
-                //        {
-                //            Console.WriteLine("Specify name of drug: ");
-                //            string name1 = Console.ReadLine();
-                //            Console.WriteLine("Enter count drug which you retrieve: ");
-                //            int count1 = int.Parse(Console.ReadLine());
-                //            money -= count1 * item.Price;
-                //            pharmacy.SaleDrug(name1, count1, money);
-                //        }
-                //        else if (choose == 'n')
-                //        {
-                //            Console.WriteLine("Thank you for purchase!");
-                //        }
-                //    }
-
-                //}
-            }
 
         }
-
     }
 }

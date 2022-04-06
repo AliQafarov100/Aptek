@@ -41,20 +41,20 @@ namespace Classwork
                 {
                     money -= count * item.Price;
                     item.Count -= count;
-                    Console.WriteLine($"Remaining money: {money}");
                     Console.WriteLine(item);
+                    Console.WriteLine($"Remaining money: {money}");
                 }
                 else
                 {
-                    Console.WriteLine("Sell is fall");
+                    Console.WriteLine($"product which ID {item.Id} the sale was not carried out!");
                 }
-                break;
+                
             }
         }
 
-        //public override string ToString()
-        //{
-        //    return $"Name: {Name} | Id: {Id}";
-        //}
+        public override string ToString()
+        {
+            return $"Name: {Name} | Id: {Id}";
+        }
     }
 }
